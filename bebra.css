@@ -1,0 +1,62 @@
+body {
+  background-image: url(_115093317_neo4.jpg);
+}
+    
+a {
+	color:#2ac1eb;
+	border:1px solid #3B34FF;
+	background-color:#8876FF;
+	border-radius:20px;
+}
+
+span  {
+	color:#f0f00a;
+}
+
+div {
+	color:#b31717;
+}
+
+button {
+	color:#FFCA6F;
+}
+
+table {
+  border:5px solid #EC9FFF;
+  background-color:#AEE7FF;
+	color:#8251FF;
+}
+
+input {
+	color:#6090FF;
+}
+
+#IPmc {
+	color:#F064FF;
+	border:1px solid #AF76FF;
+	background-color:#F6C8FF;
+	border-radius:20px;
+}
+
+#about_dev {
+	color:#DAF8FF;
+}
+
+#btnc {
+	color:#52FF37;
+}
+
+.frame {
+	font-size:20px;
+	color: ffffff;
+	border:2px solid #00FFA9;
+	background-color:#92FFA9;
+	border-radius:20px;
+}
+
+.frame:hover {
+	font-size:30px;
+	border:10px solid #00FFA9;
+	border-radius:20px;
+}
+
