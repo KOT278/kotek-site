@@ -29,7 +29,9 @@
             <button class = "btn" onclick="location.href='https://pastebin.com/u/KOT_228'">Pastebin</button>
             <button class = "btn" onclick="location.href='https://soundcloud.com/artem-tabunov'">SoundCloud</button>
             <button class = "btn" onclick="location.href='https://boosty.to/kotik2022'">Boosty(платного контента нет)</button>
+          <button class = "btn" onclick="location.href='patreon.com/user?u=82028850'">Patreon(платного контента нет)</button>
               <button class = "btn" onclick="location.href='https://signal.group/#CjQKILR85eyO158uqnGeODh4E1yLskfysFBQW27CyIbEwrKWEhBVHsf4_M_lWQdrI7DrWD9q'">Signal</button>
+          <button class = "btn" onclick="location.href='https://signal.group/#CjQKILR85eyO158uqnGeODh4E1yLskfysFBQW27CyIbEwrKWEhBVHsf4_M_lWQdrI7DrWD9q'">Matrix</button>
             <span id="IPmc">Minecraft server IP: Meow_772.aternos.me:54702</span>
     
         <table border="2">
@@ -48,14 +50,7 @@
         <br><span>Привет,</span> <span id="nme"></span><br>
         <span>===========================================================================================================================================================================</span>
         <iframe src="https://discord.com/widget?id=986989653229994004&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-        <iframe src="https://giphy.com/embed/MWSRkVoNaC30A" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-hello-oh-MWSRkVoNaC30A">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley", target="_blank">=======================================================================ХЕЙ, НАЖМИ НА МЕНЯ ПЖ=======================================================================</a> 
-        <span>
-    Моя любимая песня   
-        </span>
-    <audio controls>
-    <source src="ricroll2.mp3" type="aubio/mpeg">    
-        </audio>
+        <iframe src="https://giphy.com/embed/MWSRkVoNaC30A" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p> 
     <span class="frame">!Сайт разработан котиком, КОТ#5218, котик любит спать!</span>
     <div>
         <span>Посчитай все, что угодно!!!(+)</span><br/>
