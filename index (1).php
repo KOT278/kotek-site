@@ -20,6 +20,7 @@
         </div>
             <button class = "btn" onclick="location.href='https://discord.gg/4gyxf8vFge'">Discord</button>
             <button class = "btn" onclick="location.href='https://discord.gg/4aNQy7tdrv'">Discord 2</button>
+          <button class = "btn" onclick="location.href='https://discord.gg/gzEzPvPCMc'">Discord 3</button>
             <button class = "btn" onclick="location.href='https://discord.gg/sErqv8DP7V'">Discord Minecraft server</button>
             <button class = "btn" onclick="location.href='https://t.me/+F5ESZdVIS4VjZTky'">Blog</button>
             <button class = "btn" onclick="location.href='https://t.me/+tZUxJV51yOA0ZGJi'">Minecraft plugins</button>
@@ -31,7 +32,7 @@
             <button class = "btn" onclick="location.href='https://boosty.to/kotik2022'">Boosty(платного контента нет)</button>
           <button class = "btn" onclick="location.href='patreon.com/user?u=82028850'">Patreon(платного контента нет)</button>
               <button class = "btn" onclick="location.href='https://signal.group/#CjQKILR85eyO158uqnGeODh4E1yLskfysFBQW27CyIbEwrKWEhBVHsf4_M_lWQdrI7DrWD9q'">Signal</button>
-          <button class = "btn" onclick="location.href='https://signal.group/#CjQKILR85eyO158uqnGeODh4E1yLskfysFBQW27CyIbEwrKWEhBVHsf4_M_lWQdrI7DrWD9q'">Matrix</button>
+          <button class = "btn" onclick="location.href='https://signal.group/#CjQKILR85eyO158uqnGeODh4E1yLskfysFBQW27CyIbEwrKWEhBVHsf4_M_lWQdrI7DrWD9q'">Matrix</button> 
             <span id="IPmc">Minecraft server IP: Meow_772.aternos.me:54702</span>
     
         <table border="2">
