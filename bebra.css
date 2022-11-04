@@ -31,6 +31,10 @@ input {
 	color:#6090FF;
 }
 
+#scm {
+  background: linear-gradient(45deg, #55A4FF, #FF6A5C);
+}
+
 #IPmc {
 	color:#F064FF;
 	border:1px solid #AF76FF;
